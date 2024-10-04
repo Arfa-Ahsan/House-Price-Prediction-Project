@@ -11,3 +11,32 @@ I have also built a web application that  allows users to predict house prices b
 - Predict house prices based on property characteristics like area, bedrooms, bathrooms, parking, and more.
 - Simple and intuitive user interface built with Streamlit.
 - Efficient and accurate predictions using a pre-trained SVR model.
+
+### Installation
+Follow these steps to set up and run the project locally:
+
+##### 1. Clone the repository
+```
+git clone https://github.com/Arfa-Ahsan/House-Price-Prediction-Project.git
+cd House-Price-Prediction-Project
+```
+
+##### 2. Create a virtual environment and activate it (optional but recommended)
+```
+python -m venv env
+source env/bin/activate   # For Linux/macOS
+env\Scripts\activate      # For Windows
+```
+##### 3. Install dependencies
+```
+pip install -r requirements.txt
+```
+
+##### 4.Run the Jupyter Notebook 
+```
+jupyter notebook notebooks/House price prediction.ipynb
+```
+##### 5.Run the Streamlit app
+```
+streamlit run house_price_prediction.py
+```
