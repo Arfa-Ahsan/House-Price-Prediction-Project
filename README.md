@@ -5,7 +5,8 @@ The goal of this project is to build a predictive model to estimate house prices
 
 I have also built a web application that  allows users to predict house prices based on various property features using a pre-trained Support Vector Regressor (SVR) model. The app is built using Streamlit for the frontend, allowing users to input house details and receive a predicted price based on the trained model.
 
-![image](https://github.com/user-attachments/assets/e5806e58-1c33-4df1-940f-5051b2a4def0)
+![image](https://github.com/user-attachments/assets/a21b86c5-0e8d-4eae-a3cc-aeaf5d3613f4)
+
 
 ### Features
 - Predict house prices based on property characteristics like area, bedrooms, bathrooms, parking, and more.
